@@ -13,3 +13,6 @@ let myAgeInDogYears = earlyYears + laterYears;
 const myName = ("Elizabeth").toLowerCase();
 
 console.log(`my name is ${myName}. I am ${myAgeInDogYears} dog years`)
+
+
+//test
